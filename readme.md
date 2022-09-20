@@ -21,9 +21,8 @@ Describe any challenges encountered while building the app.
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="Kapture 2022-09-12 at 20.29.58" width=250><br>
+<img src="https://github.com/DillonFarber/assignment_1/blob/main/Kapture%202022-09-12%20at%2020.29.58.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
